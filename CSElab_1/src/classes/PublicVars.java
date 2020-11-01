@@ -1,5 +1,5 @@
 package classes;
 
 public class PublicVars {
-    public static int BLOCKSIZE = 3;
+    public static int BLOCKSIZE = 5;
 }

@@ -1,7 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cc5c660-4d5a-4c00-a60d-8586441d85cf" name="Default Changelist" comment="" />
+    <list default="true" id="5cc5c660-4d5a-4c00-a60d-8586441d85cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/CSElab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FM/fm-0/0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FM/fm-7/0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FM/fm-7/1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-0/0.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-0/0.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-0/0.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-0/0.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-0/1.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-0/1.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-0/1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-0/1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-0/2.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-0/2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-0/3.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-0/3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-0/4.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-0/4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-0/5.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-0/5.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-0/meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-0/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-1/0.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-1/0.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-1/0.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-1/0.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-1/1.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-1/1.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-1/1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-1/1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-1/2.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-1/2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-1/3.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-1/3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-1/4.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-1/4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-1/5.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-1/5.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-1/meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-1/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-2/0.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-2/0.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-2/0.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-2/0.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-2/1.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-2/1.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-2/1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-2/1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-2/2.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-2/2.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-2/2.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-2/2.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-2/3.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-2/3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-2/4.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-2/4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-2/meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-2/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/0.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-3/0.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/0.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-3/0.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/1.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-3/1.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-3/1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/2.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/3.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/4.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/5.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/5.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/6.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/6.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/7.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/7.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/8.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/8.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-3/meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-3/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/0.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-4/0.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/0.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-4/0.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/1.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-4/1.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-4/1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/2.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-4/2.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/2.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-4/2.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/3.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-4/3.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-4/3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/4.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-4/4.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/4.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-4/4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/5.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/5.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/6.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/6.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/7.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/7.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/8.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/8.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-4/meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-4/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/0.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-5/0.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/0.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-5/0.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/1.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-5/1.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-5/1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/2.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-5/2.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/2.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-5/2.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/3.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-5/3.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-5/3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/4.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-5/4.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/4.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-5/4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/5.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-5/5.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/5.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-5/5.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/6.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/6.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/7.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/7.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/8.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/8.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/9.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/9.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-5/meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-5/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/0.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-6/0.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/0.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-6/0.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/1.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-6/1.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-6/1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/2.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/3.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/4.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/5.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/5.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/6.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/6.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/7.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/7.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-6/meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-6/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-7/0.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-7/0.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-7/0.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-7/0.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-7/1.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-7/1.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-7/1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-7/1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-7/2.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-7/2.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-7/2.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-7/2.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-7/3.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-7/3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-7/4.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-7/4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-7/5.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-7/5.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-7/meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-7/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-8/0.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-8/0.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-8/0.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-8/0.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-8/1.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-8/1.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-8/1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-8/1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-8/2.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-8/2.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-8/2.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-8/2.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-8/3.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-8/3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-8/meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-8/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/0.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-9/0.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/0.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-9/0.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/1.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-9/1.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-9/1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/10.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/10.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/11.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/11.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/2.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-9/2.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/2.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-9/2.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/3.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-9/3.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-9/3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/4.data" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-9/4.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/4.meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-9/4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/5.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/5.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/6.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/6.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/7.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/7.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/8.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/8.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/9.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/9.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BM/bm-9/meta" beforeDir="false" afterPath="$PROJECT_DIR$/BM/bm-9/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FM/filenameToFmAndId" beforeDir="false" afterPath="$PROJECT_DIR$/FM/filenameToFmAndId" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FM/fm-0/meta" beforeDir="false" afterPath="$PROJECT_DIR$/FM/fm-0/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FM/fm-1/0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FM/fm-1/meta" beforeDir="false" afterPath="$PROJECT_DIR$/FM/fm-1/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FM/fm-5/0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FM/fm-5/meta" beforeDir="false" afterPath="$PROJECT_DIR$/FM/fm-5/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FM/fm-7/meta" beforeDir="false" afterPath="$PROJECT_DIR$/FM/fm-7/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FM/fm-9/0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FM/fm-9/meta" beforeDir="false" afterPath="$PROJECT_DIR$/FM/fm-9/meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSElab1/META-INF/CSElab1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSElab1/classes/PublicVars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSElab1/classes/PublicVars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSElab1/test/CheckSumtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSElab1/test/CheckSumtest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/PublicVars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/PublicVars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/CheckSumtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/CheckSumtest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,14 +197,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1iSPD6QuQRXsipP3wWSGWUvkBUN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -36,7 +225,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -90,11 +279,16 @@
       <workItem from="1603183885412" duration="45000" />
       <workItem from="1603183951057" duration="666000" />
       <workItem from="1603456976425" duration="16599000" />
+      <workItem from="1604190164671" duration="2842000" />
+      <workItem from="1604200216602" duration="1563000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Project_Structure" timestamp="1601897906747">
@@ -122,55 +316,55 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="658" y="163" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1603502396266" />
-    <state width="1867" height="232" key="GridCell.Tab.0.bottom" timestamp="1603512783388">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1227" height="113" key="GridCell.Tab.0.bottom" timestamp="1604201857439">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="125" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603170305758" />
+    <state width="1227" height="113" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604201857439" />
     <state width="1867" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603512783388" />
-    <state width="1867" height="232" key="GridCell.Tab.0.center" timestamp="1603512783388">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1227" height="113" key="GridCell.Tab.0.center" timestamp="1604201857438">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="125" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603170305758" />
+    <state width="1227" height="113" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604201857438" />
     <state width="1867" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603512783388" />
-    <state width="1867" height="232" key="GridCell.Tab.0.left" timestamp="1603512783388">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1227" height="113" key="GridCell.Tab.0.left" timestamp="1604201857438">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="125" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603170305758" />
+    <state width="1227" height="113" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604201857438" />
     <state width="1867" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603512783388" />
-    <state width="1867" height="232" key="GridCell.Tab.0.right" timestamp="1603512783388">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1227" height="113" key="GridCell.Tab.0.right" timestamp="1604201857438">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="125" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603170305758" />
+    <state width="1227" height="113" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604201857438" />
     <state width="1867" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603512783388" />
-    <state width="1867" height="232" key="GridCell.Tab.1.bottom" timestamp="1603512783389">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1227" height="160" key="GridCell.Tab.1.bottom" timestamp="1604199929156">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="179" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602765218185" />
+    <state width="1227" height="160" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604199929156" />
     <state width="1867" height="232" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603512783389" />
-    <state width="1867" height="232" key="GridCell.Tab.1.center" timestamp="1603512783389">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1227" height="160" key="GridCell.Tab.1.center" timestamp="1604199929155">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="179" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1602765218185" />
+    <state width="1227" height="160" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1604199929155" />
     <state width="1867" height="232" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603512783389" />
-    <state width="1867" height="232" key="GridCell.Tab.1.left" timestamp="1603512783388">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1227" height="160" key="GridCell.Tab.1.left" timestamp="1604199929155">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="179" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1602765218185" />
+    <state width="1227" height="160" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1604199929155" />
     <state width="1867" height="232" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603512783388" />
-    <state width="1867" height="232" key="GridCell.Tab.1.right" timestamp="1603512783389">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1227" height="160" key="GridCell.Tab.1.right" timestamp="1604199929156">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1227" height="179" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1602765218185" />
+    <state width="1227" height="160" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1604199929156" />
     <state width="1867" height="232" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603512783389" />
-    <state x="198" y="0" key="SettingsEditor" timestamp="1603183929567">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="58" y="0" key="SettingsEditor" timestamp="1604190743988">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="58" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602066819374" />
+    <state x="58" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1604190743988" />
     <state x="198" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603183929567" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1603183964575">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="427" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1604200217295">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="427" y="225" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1602746791091" />
+    <state x="427" y="225" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604200217295" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603183964575" />
     <state x="161" y="62" key="new project wizard" timestamp="1603184737028">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -187,15 +381,6 @@
     <state x="329" y="-2" width="1260" height="1582" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602849460888" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/classes/MyFile.java</url>
-          <line>116</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="fileMeta.logicBlock" />
